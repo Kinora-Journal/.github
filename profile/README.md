@@ -2,7 +2,7 @@
 
 **Your workouts, your way.**
 
-Kinora is a workout tracking app designed to put you in control.
+Kinora is a workout journaling app designed to put you in control.
 Build custom training programs, log your sessions, and follow your progress — all in one place.
 
 ---
@@ -14,7 +14,7 @@ We're currently in active development. Stay tuned for updates as we get closer t
 ## 💡 What We're Building
 
 - **Custom program builder** — design training plans that fit your goals
-- **Workout tracker** — log sets, reps, weights, and more
+- **Workout tracker** — log sets, reps, weights, time, and more
 - **Progress insights** — see how far you've come over time
 
 ## 🤝 Team
